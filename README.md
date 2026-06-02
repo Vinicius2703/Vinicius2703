@@ -1,11 +1,11 @@
 ![Banner do Vinícius](https://capsule-render.vercel.app/api?type=waving&color=40916C&height=200&section=header&text=Vinícius%20Cavalcanti%20Freitas&subtitle=Front-end%20Developer%20%26%20UI/UX%20Designer&fontSize=40&animation=fadeIn&fontColor=F4F1DE&subFontColor=E0DBCE)
+
 **`Desenvolvedor Front-end`** • **`Desenvolvedor web`** • **`Ui/Ux Designer`**
 
-Olá, me chamo Vinícius, tenho 19 anos e atualmente estou cursando Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco (CIn - UFPE) e sou apaixonado por Design UI/ e Desenvolvimento de interfaces.
+Olá, me chamo Vinícius, tenho 19 anos e atualmente estou cursando Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco (CIn - UFPE) e sou apaixonado por Design UI/UX e Desenvolvimento de interfaces.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-40916C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Figma](https://img.shields.io/badge/Figma-40916C?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@SEU_FIGMA)
-[![Gmail](https://img.shields.io/badge/Gmail-40916C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-40916C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuscavalcanti-)
+[![Gmail](https://img.shields.io/badge/Gmail-40916C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscavalcanti469@gmail.com@gmail.com)
 
 ---
 
@@ -27,15 +27,15 @@ Olá, me chamo Vinícius, tenho 19 anos e atualmente estou cursando Sistemas de 
 
 <div style="max-height: 250px; overflow-y: auto;">
 
-| Preview | Projeto | 🔧 Tecnologias | Link |
+| Preview | Projeto | Tecnologias | Link |
 | :---: | :--- | :--- | :---: |
-| <img src="assets/horizonte.png" width="320px" alt="Preview Projeto 1"/><br> | **Agência de viagem - Horizonte**<br><sub>Primeiro protótipo de um website feito num curso da Udemy.</sub> | `Figma` `Ilustração` `UI/UX`| [Ver Figma ↗](https://figma.com/) |
-| <img src="assets/cinutri.png"/><br> | **App de Acompanhamento Nutricional - Cinutri**<br><sub>Projeto feito na cadeira de Concepção de de Artefatos digitais em 2025.1</sub> | `Figma` `UI/UX`| [Ver Figma ↗](https://www.figma.com/design/bVYLrxTKmcGPfmvciC5sMi/Projeto-cad?node-id=0-1&t=ifwyy3WNYlWzNEo0-1) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto3.png" width="320px" alt="Preview Projeto 3"/><br> | **Finanças Pessoais - FinTech App**<br><sub>Design de aplicativo mobile focado em gestão financeira com Dark Mode nativo.</sub> | `Figma` `Design System` | [Ver Figma ↗](https://figma.com/) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto4.png" width="320px" alt="Preview Projeto 4"/><br> | **Dashboard Admin - E-Commerce**<br><sub>Interface analítica para gerenciamento de vendas e controle de estoque de lojas virtuais.</sub> | `Figma` `UI/UX` `Componentization` | [Ver Figma ↗](https://figma.com/) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto5.png" width="320px" alt="Preview Projeto 5"/><br> | **Landing Page - Portfólio Fotografia**<br><sub>Layout responsivo minimalista desenvolvido para apresentação de portfólios visuais.</sub> | `Figma` `Web Design` | [Ver Figma ↗](https://figma.com/) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto6.png" width="320px" alt="Preview Projeto 6"/><br> | **Gerador de Cartões de Visita**<br><sub>Interface interativa para criação rápida e estilização de identidade visual corporativa.</sub> | `HTML5` `CSS3` `JavaScript` | [Ver Figma ↗](https://figma.com/) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto7.png" width="320px" alt="Preview Projeto 7"/><br> | **App de Streaming de Música**<br><sub>Redesenho de interface focado em usabilidade, microinterações e fluxo de usuário simplificado.</sub> | `Figma` `UI/UX` `Prototipagem` | [Ver Figma ↗](https://figma.com/) |
-| <img src="https://raw.githubusercontent.com/Vinicius2703/NOME_DO_REPOSITORIO/main/imagem-do-projeto8.png" width="320px" alt="Preview Projeto 8"/> <br> | **Plataforma de Cursos Online**<br><sub>EER de Banco de Dados e prototipagem da interface web de gerenciamento acadêmico.</sub> | `Figma` `SQL` `Database Design` | [Ver Figma ↗](https://figma.com/) |
-
+| <img src="assets/horizonte.png" width="320px" alt="Preview Projeto 1"/><br> | **Agência de viagem - Horizonte**<br><sub>Primeiro protótipo de um website feito num curso da Udemy.</sub> | `Figma` `Ilustração` `UI/UX`| [Ver Figma ↗](https://www.figma.com/design/HgWKXxZq5wD8dmG7TsrNWX/primeiro-projeto?node-id=28-163&t=vBznIyE3CHqTpoFd-0)|
+| <img src="assets/cinutri.png"/><br> | **App de Acompanhamento Nutricional - Cinutri**<br><sub>Projeto feito na cadeira de Concepção de de Artefatos digitais em 2025.1</sub> | `Figma` `UI/UX` `Prototipação de baixo nivel`| [Ver Figma ↗](https://www.figma.com/design/bVYLrxTKmcGPfmvciC5sMi/Projeto-cad?node-id=0-1&t=ifwyy3WNYlWzNEo0-1) |
+| <img src="assets/capiba.png" width="320px" alt="Preview Projeto 3"/><br> | **Recife Point Game**<br><sub>prototipo de projeto feito para a prefeitura do recife.</sub> | `Figma` `Design UI` | [Ver Figma ↗](https://www.figma.com/design/5SUOeHMLqGSUGUmvso99Z0/RPG?t=vBznIyE3CHqTpoFd-0) |
+| <img src="assets/vlab.png" width="320px" alt="Preview Projeto 4"/><br> | **Plataforma Educaconal**<br><sub>Plataforma educacional de ensino.</sub> | `Figma` `design UI/UX` `Prototipação de baixo nivel` | [Ver Figma ↗](https://www.figma.com/design/lcMsB4kGOGGjuNU2r7urO0/V-lab?node-id=0-1&p=f&t=vBznIyE3CHqTpoFd-0) |
 </div>
+
+---
+
+
+![footer](https://capsule-render.vercel.app/api?type=transparent&height=200&color=40916C&text=Será%20um%20prazer%20trabalhar%20com%20você!&section=footer&textBg=false&fontSize=24&fontAlign=50&fontAlignY=63&animation=twinkling&rotate=0&fontColor=F4F1DE)
