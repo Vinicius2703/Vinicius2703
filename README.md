@@ -5,7 +5,7 @@
 Olá, me chamo Vinícius, tenho 19 anos e atualmente estou cursando Sistemas de Informação no Centro de Informática da Universidade Federal de Pernambuco (CIn - UFPE) e sou apaixonado por Design UI/UX e Desenvolvimento de interfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-40916C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuscavalcanti-)
-[![Gmail](https://img.shields.io/badge/Gmail-40916C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscavalcanti469@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-40916C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscavalcanti469@gmail.com)
 
 ---
 
@@ -37,7 +37,6 @@ Olá, me chamo Vinícius, tenho 19 anos e atualmente estou cursando Sistemas de 
   </div>
 </details>
 
----
-
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=40916C&text=Será%20um%20prazer%20trabalhar%20com%20você!&section=footer&textBg=false&fontSize=24&fontAlign=50&fontAlignY=63&animation=twinkling&rotate=0&fontColor=F4F1DE)
